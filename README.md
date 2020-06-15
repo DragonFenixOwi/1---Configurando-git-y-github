@@ -1,2 +1,2 @@
 
-# 1---Configurando-git-y-github
+# 1 Configurando-git-y-github
